@@ -3,8 +3,9 @@ h1 {
 }
 
 p {
-   background: gray;
+   background: rbg(160,160,160);
    width: 300px
    margin: 20px; 20px; 20px; 20px;
    border: 2px solid black; 
+   padding: 10px; 
 }
