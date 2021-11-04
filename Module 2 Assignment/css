@@ -1,3 +1,10 @@
 h1 {
    text-align: center;
 }
+
+p {
+   background: gray;
+   width: 400px
+   margin: 20px; 20px; 20px; 20px;
+   border: 2px solid black; 
+}
