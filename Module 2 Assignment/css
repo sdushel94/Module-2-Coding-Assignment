@@ -1,24 +1,23 @@
 h1 {
    text-align: center;
 }
-
+p{
+   float: left; 
+}
 #GiantsYear {
    background: rgb(160,160,160);
    width: 300px;
    margin: 20px; 20px; 20px; 20px;
-   border: 2px solid black; 
+   border: 1px solid black; 
    padding: 10px; 
    height: 150px;
-   position: absolute; 
-   top: 100px;
-   left: 10px;
 }
 
 #Giants {
    background: orange;
    width: 200px;
    margin: 20px;20px; 20px; 20px;
-   border: 2px solid black;
+   border: 1px solid black;
    padding: 10px;
    height: 30px;
    position: absolute;
@@ -30,19 +29,16 @@ h1 {
    background: rgb(160,160,160);
    width: 300px;
    margin: 20px; 20px; 20px; 20px;
-   border: 2px solid black; 
+   border: 1px solid black; 
    padding: 10px; 
    height: 150px;
-   position: absolue;
-   top: 100px;
-   left: 340px;
 }
 
 #Dodgers {
    background: blue;
    width: 200px;
    margin: 20px;20px; 20px; 20px;
-   border: 2px solid black;
+   border: 1px solid black;
    padding: 10px;
    height: 30px;
    position: absolute;
@@ -54,18 +50,15 @@ h1 {
    background: rgb(160,160,160);
    width: 300px;
    margin: 20px; 20px; 20px; 20px;
-   border: 2px solid black; 
+   border: 1px solid black; 
    padding: 10px; 
    height: 150px;
-   position: absolute;
-   top: 100px;
-   left: 670px;
 }
 #Braves {
    background: red;
    width: 200px;
    margin: 20px;20px; 20px; 20px;
-   border: 2px solid black;
+   border: 1px solid black;
    padding: 10px;
    height: 30px;
    position: absolute;
