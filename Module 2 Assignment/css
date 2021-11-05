@@ -59,7 +59,7 @@ h1 {
    height: 150px;
    position: absolute; 
    top: -150px;
-   left: 670px; 
+   left: 340px; 
 }
 #Braves {
    background: red;
@@ -69,6 +69,6 @@ h1 {
    padding: 10px;
    height: 30px;
    position: absolute;
-   top: -150px;
+   top: 100px;
    left: 80px;
 }
