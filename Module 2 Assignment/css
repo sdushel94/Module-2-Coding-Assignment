@@ -44,9 +44,9 @@ h1 {
    margin: 20px;20px; 20px; 20px;
    border: 1px solid black;
    padding: 10px;
-   height: 30px;
+   height: 25px;
    position: absolute;
-   top: 110px;
+   top: 100px;
    left: 80px;
 }
 
