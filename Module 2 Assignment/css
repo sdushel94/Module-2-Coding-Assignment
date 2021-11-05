@@ -23,7 +23,7 @@ h1 {
    height: 30px;
    position: absolute;
    top: 100px;
-   left: 110px;
+   left: 70px;
 }
 
 #DodgersYear {
@@ -46,8 +46,8 @@ h1 {
    padding: 10px;
    height: 30px;
    position: absolute;
-   top: 0px;
-   left: 440px;
+   top: -100px;
+   left: 140px;
 }
 
 #BravesYear {
